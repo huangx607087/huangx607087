@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Master Grade 2 Student in SEU, CTF Cryptoer
+Master Grade 3 Student in SEU, CTF Cryptoer
 
 
 #### 1o02 Education
@@ -15,7 +15,7 @@ Master Grade 2 Student in SEU, CTF Cryptoer
 
 
 
-> Last update : Oct.18 2025
+> Last update : Sept.9 2026
 <!--
 **huangx607087/huangx607087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
